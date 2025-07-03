@@ -1,0 +1,2 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.dawspractice.shop
+REDIS_HOST: redis-{{ env }}.dawspractice.shop

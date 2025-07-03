@@ -1,0 +1,2 @@
+REDIS_HOST: redis-{{ env }}.dawspractice.shop
+MONGODB_HOST: mongodb-{{ env }}.dawspractice.shop

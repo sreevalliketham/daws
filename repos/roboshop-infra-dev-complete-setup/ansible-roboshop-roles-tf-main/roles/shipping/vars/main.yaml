@@ -1,0 +1,4 @@
+MYSQL_HOST: mysql-{{ env }}.dawspractice.shop
+MYSQL_ROOT_USER: root
+MYSQL_ROOT_PASSWORD: RoboShop@1
+CART_HOST: cart.backend-{{ env }}.dawspractice.shop

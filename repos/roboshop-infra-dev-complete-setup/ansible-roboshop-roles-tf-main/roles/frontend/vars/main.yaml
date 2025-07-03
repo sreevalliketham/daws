@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.dawspractice.shop
+USER_HOST: user.dawspractice.shop
+CART_HOST: cart.dawspractice.shop
+SHIPPING_HOST: shipping.dawspractice.shop
+PAYMENT_HOST: payment.dawspractice.shop
